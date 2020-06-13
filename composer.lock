@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "huholoman/phpnats",
-            "version": "1.0",
+            "version": "1.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Huholoman/phpnats.git",
-                "reference": "e4994f90ac5dce53601bc3088fab6c9834c10ac9"
+                "reference": "2a500e66b16057bbc665d4d7ce83ad26387465f6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Huholoman/phpnats/zipball/e4994f90ac5dce53601bc3088fab6c9834c10ac9",
-                "reference": "e4994f90ac5dce53601bc3088fab6c9834c10ac9",
+                "url": "https://api.github.com/repos/Huholoman/phpnats/zipball/2a500e66b16057bbc665d4d7ce83ad26387465f6",
+                "reference": "2a500e66b16057bbc665d4d7ce83ad26387465f6",
                 "shasum": ""
             },
             "require": {
@@ -66,7 +66,7 @@
                 }
             ],
             "description": "A nats.io client in PHP",
-            "time": "2020-06-13T13:11:08+00:00"
+            "time": "2020-06-13T14:38:54+00:00"
         },
         {
             "name": "ircmaxell/random-lib",
